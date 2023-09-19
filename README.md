@@ -1,4 +1,4 @@
-<header>
+# header
 
 <!--
   <<< Author notes: Course header >>>
@@ -64,11 +64,11 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
-
+I changed the file by adding a header.
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
+  <<< Author notes:  >>>
   Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
